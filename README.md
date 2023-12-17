@@ -6,8 +6,14 @@ The Responsive Portfolio Website is built using HTML5, CSS3, and JavaScript, emp
 
 ## Features
 Responsive Design: Ensures seamless viewing experience across devices.
+
+
 Portfolio Showcase: Showcases my projects with descriptions and links.
+
+
 About Me Section: Presents information about me, my skills, and experience.
+
+
 Contact Form: Allows visitors to get in touch via email, Phone Number, LinkedIn.
 
 #
