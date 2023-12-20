@@ -17,11 +17,4 @@ About Me Section: Presents information about me, my skills, and experience.
 Contact Form: Allows visitors to get in touch via email, Phone Number, LinkedIn.
 
 #
-Feel free to customize the content to suit your preferences:
-
-Update the portfolio section with your projects.
-Modify the about me section with your information.
-Configure the contact form to link to your email or preferred contact method.
-
-
-Remember to replace placeholders like [Name/Resource] and other placeholders with your actual information or relevant links. This README file serves as a guide for users visiting your repository to understand your project's purpose, features, and how to use it.
+Deployed on : Netlify as https://ganeshbakshe.netlify.app/
