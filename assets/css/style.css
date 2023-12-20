@@ -308,11 +308,11 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
-  background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+.avatar-box img {
+  height: 200px;
+  border: 2px solid #000;
+  border-radius: 30px;
 }
-
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
